@@ -7,7 +7,7 @@ Each of the destination URLs should be assigned a weighting factor from 1-5.
 
 According to this factor, the plugin chooses which final destination URL is called.
 
-###== Changelog ==
+### == Changelog ==
 
 = 1.0.3 =
 * Add option to use current theme stylesheet or use default plain page
