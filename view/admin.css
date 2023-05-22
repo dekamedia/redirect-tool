@@ -1,0 +1,10 @@
+<style>
+#redirect-tool-page h2{text-transform: uppercase; display: inline-block;}
+#redirect-tool-page .content-wrapper{margin: 10px 0 0 0; background: #EDEDED; padding: 10px; border: solid 1px #DDD;}
+#redirect-tool-page .align-right{float: right; clear: right;}
+#redirect-tool-page .align-right a.button{margin: 0 0 0 10px;}
+#redirect-tool-page .red{color: #af122e;}
+#redirect-tool-page .green{color: #12b112;}
+#redirect-tool-page .bold{font-weight: bold;}
+</style>
+
